@@ -1,0 +1,4 @@
+[submodule "themes/Shapez-Theme"]
+	path = themes/Shapez-Theme
+	url = https://github.com/djuelg/Shapez-Theme.git
+	branch = master

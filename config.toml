@@ -1,0 +1,48 @@
+# Creator: djuelg @ https://github.com/djuelg
+# Run via: hugo server --theme=Shapez-Theme --buildDrafts --bind="0.0.0.0"
+
+baseurl = "http://0.0.0.0/"
+title = "不二说"
+theme = "Shapez-Theme"
+copyright = "Copyright (c) 2017, S & Q; all rights reserved."
+[author]
+    name = "hhintow"
+    
+languageCode = "en-US"
+MetaDataFormat = "toml"
+PaginatePath = "page"
+googleAnalytics = ""
+
+[params]
+    # Meta Information
+    name = "hhintow"
+    description = "This is the sites description, which will be found in the meta tags."
+
+    # Homepage Start-Screen, variables can be left empty, links dont start with /
+    title_l1 = "Said Wei"
+    title_l2 = "不二说"
+    subtitle_l1 = "Follow me and learn English"
+    subtitle_l2 = "Explore the world"
+    subtitle_l3 = "Enjoy life"
+    # For these Links you need the full URL, because external links are supported
+    title_link = "http://djuelg.github.io/about/"
+    subtitle_link = ""
+
+    # message = "I miss"
+    # Possible values are: auto | optimizeSpeed | optimizeQuality
+    start_screen_image_quality = "auto"
+
+    # Enter links for the buttons (button one has the house sign), shouldn't be left empty
+    button_1 = ""
+    button_2 = "post/"
+    button_3 = "about/"
+
+    logo = "images/logo.png"
+    logo_start_screen_rotation = "19"
+    # This is a workaround to the original paginate param, to apply x articles per page AND sort by date
+    paginate = 2
+    keywords = "hugo, blog, Shapez, SVG, design"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
