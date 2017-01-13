@@ -1,10 +1,10 @@
 # Creator: djuelg @ https://github.com/djuelg
 # Run via: hugo server --theme=Shapez-Theme --buildDrafts --bind="0.0.0.0"
 
-baseurl = "http://0.0.0.0/"
+baseurl = "https://hhintow.github.io/"
 title = "不二说"
 theme = "Shapez-Theme"
-copyright = "Copyright (c) 2017, S & Q; all rights reserved."
+copyright = "©2017, S & Q; all rights reserved."
 [author]
     name = "hhintow"
     
@@ -25,7 +25,7 @@ googleAnalytics = ""
     subtitle_l2 = "Explore the world"
     subtitle_l3 = "Enjoy life"
     # For these Links you need the full URL, because external links are supported
-    title_link = "http://djuelg.github.io/about/"
+    title_link = "https://hhintow.github.io/about/"
     subtitle_link = ""
 
     # message = "I miss"

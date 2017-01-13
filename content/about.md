@@ -5,7 +5,8 @@ keywords = ["about", "english"]
 title = "about"
 
 +++
+<p>
+<img src="/images/profile/self.JPG" alt="" style="max-width: 300px; padding-right: 10px" align="left">
 
-![self](/images/profile/self.JPG)
-
-不2 was an English teacher back in China. She loves teaching and want to propogate knowlege to more people. 
+不2 used to be an English teacher back in China. She loves teaching and wants to propogate knowlege to more people. 
+</p>

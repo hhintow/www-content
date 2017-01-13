@@ -2,3 +2,7 @@
 	path = themes/Shapez-Theme
 	url = https://github.com/djuelg/Shapez-Theme.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:hhintow/hhintow.github.io.git
+	branch = master
